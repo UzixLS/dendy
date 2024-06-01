@@ -9,6 +9,7 @@ pcb*/**/*.dcm
 pcb*/**/*.kicad_prl
 pcb*/**/*-backups/
 pcb*/**/*.xml
+pcb*/**/*.lck
 pcb*/**/out/
 pcb.*/
 pcb*/rev*~*/
@@ -18,3 +19,4 @@ pcb*/rev*~*/
 *.*~
 *.sublime-*
 .vscode/
+images/1.png
