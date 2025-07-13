@@ -1,0 +1,1 @@
+- Incorrect Y1/Y2 generator circuit - see rev.A1 for fix
